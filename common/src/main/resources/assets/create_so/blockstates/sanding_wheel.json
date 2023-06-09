@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "create_so:block/sanding_wheel",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "create_so:block/sanding_wheel"
+    },
+    "axis=z": {
+      "model": "create_so:block/sanding_wheel",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

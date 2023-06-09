@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_so:crushed_diamonds",
+      "count": 2
+    }
+  ],
+  "processingTime": 70
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "create_so:crumbled_cookies"
+    }
+  ],
+  "result": {
+    "item": "create_so:cookie_crumble_sandpaper"
+  }
+}

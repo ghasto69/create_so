@@ -1,0 +1,16 @@
+
+{
+"type": "minecraft:crafting_shapeless",
+"ingredients": [
+{
+"item": "create:iron_sheet"
+},
+{
+"item": "create_so:crushed_diamonds"
+}
+],
+"result": {
+"item": "create_so:crushed_diamond_sandpaper"
+}
+}
+

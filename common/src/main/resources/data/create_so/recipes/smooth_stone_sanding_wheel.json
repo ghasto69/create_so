@@ -1,0 +1,13 @@
+{
+  "type": "create_so:sanding",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:smooth_stone"
+    }
+  ]
+}

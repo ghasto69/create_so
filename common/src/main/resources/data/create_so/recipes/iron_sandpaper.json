@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "create_so:crushed_iron"
+    }
+  ],
+  "result": {
+    "item": "create_so:crushed_iron_sandpaper"
+  }
+}

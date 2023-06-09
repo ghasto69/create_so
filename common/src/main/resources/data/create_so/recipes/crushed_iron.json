@@ -1,0 +1,15 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_so:crushed_iron",
+      "count": 2
+    }
+  ],
+  "processingTime": 70
+}

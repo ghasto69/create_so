@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:crushing_wheel"
+    },
+    {
+      "item": "create_so:crushed_obsidian_sandpaper"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_so:sanding_wheel"
+    }
+  ]
+}

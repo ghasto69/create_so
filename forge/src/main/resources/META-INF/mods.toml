@@ -1,35 +1,35 @@
 modLoader = "javafml"
 loaderVersion = "[${forge_version},)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "MIT"
 
 [[mods]]
-modId = "examplemod"
+modId = "create_so"
 version = "${version}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "Create: Sandpaper Overhaul"
+authors = "Ghasto69"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Create: Sandpaper Overhaul is an addon to the Create Mod that adds more uses and variation to sandpaper!
 '''
 logoFile = "icon.png"
 
-[[dependencies.examplemod]]
+[[dependencies.create_so]]
 modId = "forge"
 mandatory = true
 versionRange = "[${forge_version},)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.create_so]]
 modId = "minecraft"
 mandatory = true
 versionRange = "${minecraft_version}"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.create_so]]
 modId="create"
 mandatory=true
-versionRange="${create_version}"
+versionRange="${create_version},"
 ordering="NONE"
 side="BOTH"

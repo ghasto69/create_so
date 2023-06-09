@@ -1,0 +1,19 @@
+{
+  "type": "create_so:sanding",
+  "ingredients": [
+    {
+      "item": "create:rose_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:polished_rose_quartz",
+      "chance": 1.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.25
+    }
+  ],
+  "processingTime": 150
+}
