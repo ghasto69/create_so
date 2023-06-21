@@ -26,10 +26,3 @@ mandatory = true
 versionRange = "${minecraft_version}"
 ordering = "NONE"
 side = "BOTH"
-
-[[dependencies.create_so]]
-modId="create"
-mandatory=true
-versionRange="${create_version},"
-ordering="NONE"
-side="BOTH"

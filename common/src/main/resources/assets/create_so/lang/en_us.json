@@ -1,4 +1,5 @@
 {
+  "_": "->------------------------]  Item and Block Names  [------------------------<-",
   "item.create_so.crushed_obsidian_sandpaper": "Crushed Obsidian Sandpaper",
   "item.create_so.cookie_crumble_sandpaper": "Cookie Crumble Sandpaper",
   "item.create_so.crushed_iron_sandpaper": "Crushed Iron Sandpaper",
@@ -7,7 +8,14 @@
   "item.create_so.crushed_diamonds": "Crushed Diamonds",
   "block.create_so.sanding_wheel": "Sanding Wheel",
   "block.create_so.sanding_wheel_controller": "Sanding Wheel Controller",
+
+  "_": "->------------------------]  Util  [------------------------<-",
+
   "death.attack.create_so.sand": "%1$s was processed by Sanding Wheels",
   "death.attack.create_so.sand.player": "%1$s was thrown into Sanding Wheels by %2$s",
-  "itemGroup.create_so": "Create: SandPaper Overhaul"
+  "itemGroup.create_so": "Create: SandPaper Overhaul",
+
+  "_": "->------------------------]  Tooltips  [------------------------<-",
+  "block.create_so.sanding_wheel.tooltip": "TRAIN STATION",
+  "block.create_so.sanding_wheel.tooltip.summary": "A _deployer_ holding a _wrench_ can automatically assemble and disassemble trains by hitting a _station_. _Hint_: hoppers can be used to put a wrench in a deployer."
 }
